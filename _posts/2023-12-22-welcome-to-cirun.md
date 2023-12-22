@@ -1,8 +1,7 @@
 ---
 layout: post
+title: "Welcome to Cirun blog!"
 ---
-
-Welcome to Cirun Blog!
 
 Create On-demand self-hosted Github Actions runners on your cloud, some useful links:
 
