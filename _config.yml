@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cirun Blog
-author: Amit Kumar
-description: Minimal, responsive Jekyll theme for hackers.
+author: Aktech Labs
+description: Cirun Blog!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.cirun.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
